@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Priya Annamalai 👋
 
-<!--
-**APriyaAnnamalai/APriyaAnnamalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Business Analyst** based in Irving, TX
 
-Here are some ideas to get you started:
+I bring 8 years of banking experience (ICICI Bank, HDFC Bank) and now turn healthcare and financial data into clear insights using SQL, Tableau and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Highlights
+- First Runner-Up, SQL Hackathon: Pre-Diabetic Patient Monitoring (Dexcom & Empatica E4 sensor data)
+- Tableau dashboards on an ICU sepsis dataset (1.5M rows), built in Agile sprints
+- Python hackathon: heart failure data analysis with a Plotly Dash dashboard
+
+## 🛠 Skills
+SQL / PostgreSQL · Tableau · Power BI · Excel · Python (pandas, Jupyter) · Agile / Scrum · Requirement gathering
+
+## 🔗 Find my work
+- Tableau Public: priya.annamalai
+- Medium blogs: medium.com/@apriyaannamalai1
+- LinkedIn: linkedin.com/in/priya-annamalai-7043441a3
